@@ -7,12 +7,7 @@ This project investigates a low recoil firing method based on the floating princ
 - Reduce recoil generated during firing.
 - Improve UAV stability and firing accuracy.
 - Validate the concept using simulation and firing tests.
-
-
-## Key Findings
-- Recoil force reduced to 65.6 N.
-- Maximum recoil force is only 16.2% of normal shoulder-fired recoil. 
-
+ 
 
 ## Presented By
 
