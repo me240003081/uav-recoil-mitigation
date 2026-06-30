@@ -8,17 +8,11 @@ This project investigates a low recoil firing method based on the floating princ
 - Improve UAV stability and firing accuracy.
 - Validate the concept using simulation and firing tests.
 
-## Tools Used
-- ADAMS Multibody Dynamics Software
-- Multi-Island Genetic Algorithm
-- Isight Optimization Platform
 
 ## Key Findings
 - Recoil force reduced to 65.6 N.
-- Maximum recoil force is only 16.2% of normal shoulder-fired recoil.
+- Maximum recoil force is only 16.2% of normal shoulder-fired recoil. 
 
-## Authors
-Li Yongjian, Wang Shan, An Jie, Zhang Junnuo
 
 ## Presented By
 Ananya Sagar and Uttam Gurjar
