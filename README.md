@@ -17,4 +17,5 @@ This project investigates a low recoil firing method based on the floating princ
 ## Presented By
 
 Ananya Sagar and Uttam Gurjar
+
 Department of Mechanical Engineering
